@@ -35,7 +35,7 @@ find specific and show after:
 <?php echo strstr($pharse2, "ded"); ?><br>
 replace word with new
 <?php echo str_replace("ded", "sam", $pharse2); ?>
-<?php echo phpinfo() ?>
+<?php echo phpinfo() ?
 
 
 
