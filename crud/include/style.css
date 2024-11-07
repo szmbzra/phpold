@@ -1,0 +1,14 @@
+input{
+	height:30px;
+	margin-top:1rem; 
+}
+span{
+	display: inline-block;
+	margin-top: 1rem
+}
+.filed_inof{
+	color:red ;
+}
+.success{
+	color:green;
+}
